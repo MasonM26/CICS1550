@@ -1,2 +1,2 @@
 # CICS1550
-Class storage
+ folding paper to make a flying craft
